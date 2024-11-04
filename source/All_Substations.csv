@@ -1,0 +1,207 @@
+SN,Name of Grid Substation,Transformer Capacity Detail (MVA),Total MVA Capacity,Grid Circle,GMD
+1,BIPTC 1st Block,1x500 MW,500 MW HVDC,-,-
+2,BIPTC 2nd Block,1x500 MW,500 MW HVDC,-,-
+1,Aminbazar,3x520 1x325,1885,Dhaka(N),-
+2,Ashuganj (N),2x244/325,650,Cumilla,-
+3,Bhulta,2x520,1040,Dhaka(S),-
+4,Bibiyana,2x520,1040,Cumilla,-
+5,Bogura (W),3x750,2250,Bogura,-
+6,Gopalganj (N),2x750,1500,Khulna,-
+7,Kaliakoir,2x520,1040,Dhaka(N),-
+8,Meghnaghat,2x750,1500,Dhaka(S),-
+9,Madunaghat,3x750,2250,Chattogram,-
+10,Rampal,2x520,1040,Khulna,-
+1,Gopalganj (N),3x325,975,Khulna,-
+2,Kaliakoir,2x325 1x300,950,Dhaka(N),-
+3,Rahanpur,2x520,1040,Bogura,-
+4,Payra,2x325,650,Khulna,-
+1,Agargaon,2x300,600,Dhaka(N),Dhaka(N-W)
+2,Aminbazar,3x225,675,Dhaka(N),Dhaka(N-W)
+3,Ashuganj,1x300 1x150,450,Cumilla,-
+4,Baghabari,1x225 1x300,525,HVDC,Ishwardi
+5,Barapukuria,2x225 1x225/300,750,Bogura,Dinajpur
+6,Barishal (N),2x300,600,Khulna,Barishal
+7,Bheramara,2x225,450,HVDC,Jhenaidah
+8,Bogura,2x225(7x75) 2x225/300,1050,Bogura,Bogura
+9,Cumilla (N),3x225,675,Cumilla,Cumilla
+10,Faridpur,2x350,700,Khulna,Faridpur
+11,Fenchuganj,2x300,600,Cumilla,Sylhet
+12,Ghorasal SW,-,-,Dhaka(S),Narsingdi
+13,Ghorasal,2x125,250,Dhaka(S),-
+14,Haripur,3x225(10x75),675,Dhaka(S),Dhaka(E)
+15,Hasnabad,3x225(10x75),675,Dhaka(S),Dhaka(S)
+16,Hathazari,4x150,600,Chattogram,CTG(N)
+17,Jhenaidah(S),2x300,600,HVDC,Jhenaidah
+18,Ishwardi,3x225,675,HVDC,Ishwardi
+19,Keraniganj,3x300,900,Dhaka(S),Dhaka(E)
+20,Khulna (S),2x225(7x75) 1x300,750,Khulna,Khulna(S)
+21,Maniknagar,2x300,600,Dhaka(S),Dhaka(C)
+22,Meghnaghat Switching,-,-,Dhaka(S),Dhaka(E)
+23,Rajshahi(N),2x300,600,Bogura,Rajshahi
+24,Rampura,1x450 2x225(7x75),900,Dhaka(S),Dhaka(C)
+25,Rampur,2x300,600,Chattogram,CTG(C)
+26,Siddhirganj,2x300,600,Dhaka(S),Dhaka(E)
+27,Sirajganj Switching,-,-,Bogura,Bogura
+28,Shyampur,2x225/300,600,Dhaka(S),Dhaka(S)
+29,Sripur,2x225/300,600,Dhaka(N),Dhaka(N)
+30,Tongi,3x225(10x75),675,Dhaka(N),Dhaka(N)
+31,Sikalbaha,2x300,600,Chattogram,CTG(S)
+1,AKSPL,2x130/150 1x80,380,Chattogram,CTG(N)
+2,BSRM,2x130/140,280,Chattogram,CTG(N)
+3,GPH,2x100/125,250,Chattogram,CTG(N)
+4,Borhanuddin,1x60 & 1x120/140 (230/33kV),200,Khulna,-
+5,Mirsarai,2x125/140,280,Chattogram,CTG(N)
+1,Aftabnagar,2x80/120,240,Dhaka(S),-
+2,Agargaon,2x80/120,240,Dhaka(N),Dhaka(N-W)
+3,Agrabad,2x80/120,240,Chattogram,CTG(C)
+4,AKSML,1x50/80,80,Chattogram,CTG(N)
+5,Amnura,3x35/50,150,Bogura,Rajshahi
+6,Ashuganj,1x25/41 1x50/75,116,Cumilla,Srimangal
+7,Bagerhat,2x25/41 1x50/75,157,Khulna,Khulna(S)
+8,Bakulia,2x48/64 1x50/75,203,Chattogram,CTG(C)
+9,Bangabhaban,2x28/35,70,Dhaka(S),-
+10,Bhangura,2x50/75,150,Bogura,Ishwardi
+11,Barguna,2x50/75,150,Khulna,Barishal
+12,Barapukuria,1x50/75 2x25/41,157,Bogura,Dinajpur
+13,Barishal,1x80/120 1x50/75,195,Khulna,Barishal
+14,Barishal(N),2x80/120,240,Khulna,Barishal
+15,Baroaulia,2x80/120,240,Chattogram,CTG(N)
+16,Bashundhara,3x80/120,360,Dhaka(N),-
+17,Bashundhara Cement,1x35,35,Dhaka(S),-
+18,Banani,2x80/120,240,Dhaka(N),-
+19,Baroirhat,2x50/75,150,Chattogram,CTG(N)
+20,Beanibazar,2x50/75,150,Cumilla,Sylhet
+21,Bhaluka,2x80/120,240,Dhaka(N),Dhaka(N)
+22,Benapole,2x50/75,150,Khulna,Khulna(N)
+23,Bhandaria,2x25/41,82,Khulna,Barishal
+24,Bhasantek,2x80/120,240,Dhaka(N),Dhaka(N-W)
+25,Bheramara,3x25/41 1x15/20,143,HVDC,Jhenaidah
+26,Bhulta,2x80/120,240,Dhaka(S),Narsingdi
+27,BMPIL,1x50/75,75,Dhaka(S),Dhaka(E)
+28,Bogura,3x80/120 1x50/75,435,Bogura,Bogura
+29,Brahmanbaria,2x80/120 1x25/41,281,Cumilla,Srimangal
+30,BSRM(Khulshi),1x64/80,80,Chattogram,-
+31,Chandpur,3x50/75,225,Cumilla,Cumilla
+32,Chandraghona,1x50/75 1x25/41,116,Chattogram,CTG(S)
+33,Chapai Nawabganj,1x15/20 2x50/75 1x25/41,211,Bogura,Rajshahi
+34,Char Saidpur,2x80/120,240,Dhaka(S),-
+35,Chauddagram,2x50/75,150,Cumilla,Cumilla
+36,Chhatak,2x15/20 1x25/41,81,Cumilla,Sylhet
+37,Chowmuhani,3x80/120,360,Cumilla,Cumilla
+38,Chuadanga,2x50/75 1x25/41,191,HVDC,Jhenaidah
+39,Cumilla (N),3x50/75,225,Cumilla,Cumilla
+40,Cumilla (S),4x50/75,300,Cumilla,Cumilla
+41,Cox's Bazar,2x80/120 1x50/75,315,Chattogram,CTG(S)
+42,Dhaka University (DU),2x80/120,240,Dhaka(S),-
+43,Daudkandi,3x50/75,225,Cumilla,Cumilla
+44,Dhamrai,2x50/75,150,Dhaka(N),Aricha
+45,Dhanmondi,1x50/75 3x80/120,435,Dhaka(N),-
+46,Dohazari,1x50/75 1x80/120,195,Chattogram,CTG(S)
+47,Faridpur,2x80/120 1x25/41,281,Khulna,Faridpur
+48,Fatullah,2x80/120,240,Dhaka(S),-
+49,Fenchuganj,2x15/20 1x25/41,81,Cumilla,Sylhet
+50,Feni,2x80/120,240,Cumilla,Cumilla
+51,Gallamari,2x80/120,240,Khulna,Khulna(S)
+52,Ghatail,2x50/75,150,Dhaka(N),Kaliakoir
+53,Ghorashal,2x41/63,126,Dhaka(N),-
+54,Goalpara,2x25/41,82,Khulna,Khulna(N)
+55,Gopalganj,2x80/120,240,Khulna,Faridpur
+56,Gulshan,2x80/120,240,Dhaka(S),Dhaka(C)
+57,Halishahar,2x44.1/63 1x48/64,190,Chattogram,CTG(C)
+58,Haripur,2x80/120,240,Dhaka(S),Dhaka(E)
+59,Hasnabad,3x66/100,300,Dhaka(S),Dhaka(S)
+60,Hathazari,1x50/75 1x80/120,195,Chattogram,CTG(N)
+61,Ishwardi,2x50/75,150,HVDC,Ishwardi
+62,Jaldhaka,2x50/75,150,Bogura,Rangpur
+63,Jamalpur,2x50/75 2x25/41,232,Dhaka(N),Mymensingh
+64,Jashore,1x50/83.3 2x80/120,323.3,HVDC,Jhenaidah
+65,Jhenaidah,2x80/120,240,HVDC,Jhenaidah
+66,Joydebpur,1x35/50 1x50/75 1x80/120,245,Dhaka(N),Dhaka(N)
+67,Joypurhat,4x25/41,164,Bogura,Bogura
+68,Juldah,2x50/75,150,Chattogram,CTG(C)
+69,Kabirpur,3x80/120,360,Dhaka(N),Kaliakoir
+70,Kachua,2x50/75,150,Cumilla,Cumilla
+71,Kallayanpur,3x50/75,225,Dhaka(N),Dhaka(N-W)
+72,Kalurghat,2x80/120,240,Chattogram,CTG(S)
+73,Kamrangirchar,3x50/75,225,Dhaka(N),-
+74,Kaptai,1x15/20 (132/11kV),20,Chattogram,-
+75,Kazla,2x80/120,240,Dhaka(S),-
+76,Keraniganj,2x50/75,150,Dhaka(S),Dhaka(E)
+77,Khagrachari,2x30/39 (2x3x10/13),78,Chattogram,CTG(N)
+78,Khulna (C),3x48/64,192,Khulna,Khulna(N)
+79,Khulshi,2x80/120,240,Chattogram,CTG(C)
+80,Kishoreganj,1x25/41 2x50/83.3,207.6,Dhaka(N),Mymensingh
+81,Kodda,5x50/75,375,Dhaka(N),Dhaka(N)
+82,KSRM,2x35/50,100,Chattogram,CTG(N)
+83,Kulaura,2x25/41,82,Cumilla,Srimangal
+84,Kurigram,2x50/75,150,Bogura,Rangpur
+85,Kushtia,2x80/120,240,HVDC,Jhenaidah
+86,KYCR,1x20/25,20,Chattogram,-
+87,Lalbagh,2x50/75,150,Dhaka(N),-
+88,Lalmonirhat,2x50/75 2x15/20 1x25/33,223,Bogura,Rangpur
+89,Mahasthangarh,2x80/120,240,Bogura,Bogura
+90,Madanganj,2x35/50,100,Dhaka(S),Dhaka(E)
+91,Madaripur,1x25/41 2x50/75,191,Khulna,Faridpur
+92,Madartek,2x50/75,150,Dhaka(S),-
+93,Madunaghat,2x80/120,240,Chattogram,CTG(S)
+94,Magura,2x25/41 1x80/120,202,HVDC,Jhenaidah
+95,Manikganj,2x50/75 1x35/50,200,Dhaka(N),Aricha
+96,Maniknagar,2x50/75,150,Dhaka(S),Dhaka(C)
+97,Matarbari,2x25/41,82,Chattogram,CTG(S)
+98,Matuail,2x50/75,150,Dhaka(S),-
+99,MI Cement,1x28,28,Dhaka(S),-
+100,Mirpur,2x80/120 1x50/75,315,Dhaka(N),Dhaka(N-W)
+101,Mirzapur,2x50/75,150,Dhaka(N),Kaliakoir
+102,Mithapukur,2x50/75,150,Bogura,Rangpur
+103,MSML,1x25/30,30,Chattogram,CTG(C)
+104,Moghbazar,3x50/75,225,Dhaka(S),-
+105,Mongla,2x25/41,82,Khulna,Khulna(S)
+106,Motijheel,2x80/120,240,Dhaka(S),-
+107,Munshiganj,2x80/120,240,Dhaka(S),Dhaka(S)
+108,Mymensingh,3x80/120,360,Dhaka(N),Mymensingh
+109,Naogaon,2x50/75 1x80/120,270,Bogura,Rajshahi
+110,Narail,2x50/75,150,Khulna,Khulna(N)
+111,Narinda,2x50/75,150,Dhaka(S),-
+112,Narsingdi,3x50/75,225,Dhaka(S),Narsingdi
+113,Natore,3x50/75 1x35/50,275,Bogura,Rajshahi
+114,Nawabganj,2x50/75,150,Dhaka(S),Dhaka(S)
+115,Netrokona,2x25/41 1x50/75,157,Dhaka(N),Mymensingh
+116,New Tongi,2x80/120,240,Dhaka(N),Dhaka(N)
+117,Niamatpur,2x35/50 2x25/41,182,Bogura,Rajshahi
+118,Noapara,2x50/75 1x44.1/63,213,Khulna,Khulna(N)
+119,Pabna,2x50/75 2x25/41,232,HVDC,Ishwardi
+120,Palashbari,2x50/75 2x25/41,232,Bogura,Rangpur
+121,Panchagarh,4x25/41,164,Bogura,Dinajpur
+122,Patuakhali,2x50/75 1x25/41,191,Khulna,Barishal
+123,Payra,2x80/120,240,Khulna,Barishal
+124,PHP,1x30/35,35,Cumilla,Cumilla
+125,Postagola,2x80/120,240,Dhaka(S),-
+126,Purbachal,2x80/120,240,Dhaka(N),-
+127,Purbasadipur,1x80/120 1x25/41 2x50/75,311,Bogura,Dinajpur
+128,RSRM,1x20/25,25,Dhaka(S),-
+129,Rajbari,2x50/75,150,Khulna,Faridpur
+130,Rajshahi,1x80/120 1x50/75 1x35/50,290,Bogura,Rajshahi
+131,Rajshahi(N),2x80/120,240,Bogura,Rajshahi
+132,Rajendrapur,3x80/120,360,Dhaka(N),Dhaka(N)
+133,Ramganj,2x50/75,150,Cumilla,Cumilla
+134,Rampur,1x80/120,120,Chattogram,CTG(C)
+135,Rangamati,2x25/41,82,Chattogram,CTG(N)
+136,Rangpur,2x80/120 1x25/41,281,Bogura,Rangpur
+137,Rooppur,2x25/41,82,HVDC,Ishwardi
+138,Saidpur,1x35/50 2x50/75,241,Bogura,Rangpur
+139,Satkhira,2x25/41 1x80/120,202,Khulna,Khulna(S)
+140,Satmasjid,2x80/120,240,Dhaka(N),Dhaka(N-W)
+141,Savar,4x50/75,300,Dhaka(N),Dhaka(N-W)
+142,Seven Circle,2x30,60,Dhaka(S),-
+143,Shah Cement,1x80/120,120,Dhaka(S),-
+144,Shahjadpur,2x50/75 2x35/50,250,HVDC,Ishwardi
+145,Shahjibazar,1x25/41 1x50/75 1x80/120,236,Cumilla,Srimangal
+146,Shahmirpur,2x48/64,128,Chattogram,CTG(C)
+147,Shariatpur,2x80/120,240,Khulna,Faridpur
+148,Sherpur,3x50/75,225,Dhaka(N),Mymensingh
+149,Sherpur(Bogura),2x50/75,150,Bogura,Bogura
+150,Sholoshahar,2x80/120,240,Chattogram,CTG(C)
+151,Shyampur,2x50/75 2x80/120,390,Dhaka(S),-
+152,Siddhirganj,3x80/120,360,Dhaka(S),Dhaka(E)
+153,Sikalbaha,1x25/41.6 1x50/75,116.6,Chattogram,-
+154,Sirajganj,2x50/75 2x80/120,390,Bogura,Bogura
