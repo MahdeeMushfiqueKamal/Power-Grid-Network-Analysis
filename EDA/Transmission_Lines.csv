@@ -267,7 +267,7 @@ SN,from,to,voltage_kv,length_km,circuit_type,conductor_type,conductor_size,circu
 195,Baghabari,Bangura,132,24.84,Double,Grosbeak,636 MCM,49.68
 196,Bakerganj,Barguna,132,50.22,Single,Grosbeak,636 MCM,50.22
 197,Gallamari,Gopalganj,132,51.8,Double,Grosbeak,636 MCM,103.6
-198,Gopalganj,Madaripur 2nd Ckt,132,45.0,Single,Grosbeak,636 MCM,45.0
+198,Gopalganj,Madaripur,132,45.0,Single,Grosbeak,636 MCM,45.0
 199,LILI of Rangpur-Palashbari line,Mithapukur,132,0.55,Four,Grosbeak,636 MCM,2.2
 200,Maniknagar,Kazla,132,2.5,Double,XLPE,800 sq.mm,5.0
 201,Hasnabad-Keraniganj PP line re-routing,Keraniganj,132,2.8,Four,Grosbeak,636 MCM,11.2
