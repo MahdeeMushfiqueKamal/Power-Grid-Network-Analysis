@@ -1,5 +1,16 @@
 # Manual Data Cleaning
 
+## Chnages on All_Substations.csv
+
+- Deleted `30,BSRM(Khulshi),1x64/80,80,Chattogram,`
+
+- `Joydebpur` was renamed to `Joydevpur`.
+- `Madartek` was renamed to `Madertek`.
+- `Munshiganj` was renamed to `Munsiganj`.
+- `Niamatpur` was renames to `Niyamatpur`
+- `Postagola` was renames to `Postogola`
+- `Chauddagram` was renames to `Chowddagram`
+
 ## Changes on Transmission_Lines.csv
 
 - Deleted entry `222,Aminbazar 400/132kV transformer connecting 132kV line,132,1.0,Single,,,0.413`. Reason: Inconsistant formatting.
@@ -23,6 +34,8 @@
 - `Khulshi (Circuit-2)` was replaced with `Khulshi`.
 - `Kaliakoir at Kodda PP` was replaced with `Kaliakoir`.
 - `Meghnaghat at Shyampur` was replaced with `Meghnaghat`.
+- `AKSPL (Hathazari line)` was replaced with `AKSPL` as this name is present on `All_Substations.csv`.
+- `BSRM (Hathazari line)` was replaced with `BSRM`.
 
 # Appendix
 
